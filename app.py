@@ -1,5 +1,5 @@
 # Programa de cálculo de média de notas
-# Autor: Cláuido Belém Gato
+# Autor: Cláuido
 
 # Entrada
 nome = input("Digite o nome do aluno: ")
