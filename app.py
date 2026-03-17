@@ -1,5 +1,5 @@
 # Programa de cálculo de média de notas
-# Autor: Cláuido
+# Autor: Cláudio
 
 # Entrada
 nome = input("Digite o nome do aluno: ")
@@ -14,6 +14,6 @@ print(f"\nAluno: {nome}")
 print(f"Média: {media:.2f}")
 
 if media >= 6:
-    print("Situação: Aprovado")
+    print("Situação: Aprovado - Parabéns!")
 else:
     print("Situação: Reprovado")
